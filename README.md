@@ -1,17 +1,17 @@
 ChatGTP and Next.js Integration
 
 
-This repository demonstrates the integration of ChatGTP and Next.js. ChatGTP is a powerful chatbot platform that allows you to easily create and manage chatbots for your website or app. Next.js is a popular framework for building server-rendered React applications.
+This repository demonstrates the integration of ChatGPT and Next.js. ChatGPT is a powerful chatbot platform that allows you to easily create and manage chatbots for your website or app. Next.js is a popular framework for building server-rendered React applications.
 
 
-In this example, we will be using ChatGTP to create a simple chatbot that greets the user and provides information about the weather. We will then integrate this chatbot into a Next.js application.
+In this example, we will be using ChatGPT to create a simple chatbot that greets the user and provides information about the weather. We will then integrate this chatbot into a Next.js application.
 
 
 Getting Started
-First, you will need to sign up for a ChatGTP account and create a new chatbot. You can find detailed instructions on how to do this in the ChatGTP documentation.
+First, you will need to sign up for a ChatGPT account and create a new chatbot. You can find detailed instructions on how to do this in the ChatGPT documentation.
 
 
-Once you have created your chatbot, you will need to obtain the chatbot's API key. This can be found in the ChatGTP dashboard under the "Settings" tab.
+Once you have created your chatbot, you will need to obtain the chatbot's API key. This can be found in the ChatGPT dashboard under the "Settings" tab.
 
 
 Clone this repository to your local machine.
