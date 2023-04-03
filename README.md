@@ -1,4 +1,4 @@
-ChatGTP and Next.js Integration
+ChatGPT and Next.js Integration
 
 
 This repository demonstrates the integration of ChatGPT and Next.js. ChatGPT is a powerful chatbot platform that allows you to easily create and manage chatbots for your website or app. Next.js is a popular framework for building server-rendered React applications.
